@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.sign{
+     width: 450px;
+     height: 650px;
+     position: relative;
+     float: right;
+     right: 120px;
+     top: 70px;
+     color: white; 
+     padding: 60px;
+     align-items: left;
+     
+}
+
+nav{
+    height:13rem;
+}
+
+
+.input-fields{
+     background-color:  #023047;
+     border: none;
+     border-bottom: rgba(182, 182, 182, 0.842) solid 1px;
+     transition: ease .5s;
+}
+
+.input-fields:hover{
+  
+    border-bottom: rgb(0, 105, 23) solid 1px;
+    width: 290px;
+}
+
+form button:hover{
+   background-color:  rgb(0, 105, 23);
+   color: white;
+}
+
+
