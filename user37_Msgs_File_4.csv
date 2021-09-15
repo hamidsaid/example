@@ -1,0 +1,504 @@
+Topic_id,Topic,Text
+"A1,A7",,"Kati ya vituo vifuatavyo, ulipata huduma za kliniki kwenye kituo gani? Jibu kwa kutuma namba za utambulisho wa kituo zilizo ndani ya mabano. Karibu - Hamugembe (1023845), Ruanda - Ruanda (1071133), Udekwa - Udekwa (1080076), MK - Vigwaza (1113521), Amen - Ngara Mjini (1116813), MK - Mwakibete (1050335)"
+"A1,A3,A7",,"Asante sana Tekla, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+"A7,D4",,"Je, Tekla ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,Hospital ya mkoan mbeya mjn
+,,Tafadhali Keshen andika namba ya utambulisho wa kituo kwa ukamilifu wake (tarakimu saba).
+D4,,"Je, ulienda kituo gani? Tafadhali Ana jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+"A1,A5,A7,D4,G4",,"Je, Tekla ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Tekla chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,Tafadhali Ana andika namba ya utambulisho wa kituo kwa ukamilifu wake (tarakimu saba).
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana RAUTI. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni KANISIA? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+"A7,D4",,"Je, Tekla watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+A7,,Habari yako KANISIA? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"KANISIA, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Tekla. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"KANISIA, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A7",,Tafadhali KANISIA niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+"A1,A3,A7",,"Asante sana KANISIA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mtwango (Njombe) yalivyokuwa."
+"A7,D4",,"Je, KANISIA ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Kalixta ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"Adelina, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Adelina, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+"A1,A5,A7,D4,G4",,"Je, KANISIA ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni NENO? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+D4,,"Je, KANISIA chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, Kalixta ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,Samahani SARA sijaelewa jibu lako. Kama ujauzito wako unaendelea vizuri jibu kwa kutumia herufi A. Kama tayari umeshajifungua jibu kwa kutumia herufi B. Kama ujauzito wako uliharibika jibu kwa kutumia herufi C.
+D4,,"Je, Kalixta chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+A7,,Habari yako MILITON? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"MILITON, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,VENERANDA SANGA iringa
+"A7,D4",,"Je, KANISIA watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A5,D4",,"MILITON, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A3,A7",,"Asante sana SARA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Lufingo (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, Kalixta watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana KANISIA. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana Kalixta. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A7",,Tafadhali MILITON niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+A3,,haya asante sana
+,,ZAHANATI  ISONSO  WILAYA MBEYA V
+"A1,A7,D4",,"Sijapata kituo cha afya chenye jina B kilicho wilaya ya ZAHANATI  ISONSO  WILAYA MBEYA V. Je, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, LOINE ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni Shaima? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Shaima? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Shaima, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Shaima, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+,,NI  ZAHANATI  SIO  KITUO CHA  AFXA ILA  NI ZAHANATI  ISONSO
+"A1,A7,D4",,"Sijakuelewa vizuri JENIFA, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Shaima ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Augenia. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A5,A7,D4,G4",,"Je, Shaima ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Shaima chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Augenia, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mkola (Chunya) yalivyokuwa."
+D4,,"Je, Augenia ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Shaima watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Shaima. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana Augenia. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"Zuhura, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Irene, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A4,A5,D4",,"Je Irene kabla hujajifungua, uliwahi kuelezwa kuhusu dalili za hatari kwa mtoto mchanga na huduma za dharura? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Zuhura, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Iyunga (Mbeya) yalivyokuwa."
+,,jina langu sahihi ayimishilwe yosam
+"A1,D4",,"mariam, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A7,D4",,"Je, Zuhura ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7,D4",,"Sijapata kituo cha afya chenye jina A kilicho wilaya ya Mbeya. Je, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"Tegemea, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Tegemea, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+"A1,A7",,Tafadhali Keshen niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+"A1,A3,A7",,"Asante sana Keshen, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Isuto (Mbeya) yalivyokuwa."
+D4,,"Je, Keshen ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni Sainecha? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A4,,nina mtoto wa miez 7
+"A1,A5,D4",,Samahani mariam sijaelewa jibu lako. Kama ujauzito wako unaendelea vizuri jibu kwa kutumia herufi A. Kama tayari umeshajifungua jibu kwa kutumia herufi B. Kama ujauzito wako uliharibika jibu kwa kutumia herufi C.
+A7,,Habari yako Sainecha? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"Sainecha, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Sainecha, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mkola (Chunya) yalivyokuwa."
+D4,,"Je, Sainecha ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Gungia. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana Keshen. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"Daina, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Sainecha. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana Daina, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Gungia. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A3,A7",,"Asante sana Anna, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mabadaga (Mbarali) yalivyokuwa."
+G3,,Hukukumenoga waungwana wa unicef
+"A1,A4,A5,A7,D4",,"Samahani mariam, sijakuelewa vizuri, hudhurio lako la mwisho kwenye kituo cha afya ndipo ulijifungua? Kama ndiyo jibu kwa kutumia herufi A. Kama ulihudhuria na mtoto mchanga jibu kwa kutumia herufi B."
+"A1,A3,A7",,"Asante sana Nuru, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+D4,,Jina lako ni Enitha? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Enitha? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+D4,,"Enitha, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+A5,,Ujauzito wangu una miezi saba
+"A1,A3,A7",,"Asante sana Enitha, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Katumba II (Rungwe) yalivyokuwa."
+"A4,A5,D4",,"Je Enitha kabla hujajifungua, uliwahi kuelezwa kuhusu dalili za hatari kwa mtoto mchanga na huduma za dharura? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7",,Tafadhali mariam niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Subira. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A3,A7",,"Asante sana TUMAINI, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Itende JKT (Mbeya) yalivyokuwa."
+"A1,A5,D4",,"Subira, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A3,A7",,"Asante sana Enitha. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,A7,D4,G4",,"Je, Zuhura ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Subira, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mbugani (Chunya) yalivyokuwa."
+"A1,A3,A7",,"Asante sana HAPPY, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Lupembe (Njombe) yalivyokuwa."
+,,MAMA 8 1097450 15070
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Enitha. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,"Je, ulienda kituo gani? Tafadhali mariam jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+,,mbeya kijiji cha iswago
+"A1,A7,D4",,"Sijapata kituo cha afya chenye jina Iswago kilicho wilaya ya mbeya kijiji cha iswago. Je, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Zuhura chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,talafa la isangat
+"A1,A7,D4",,"Sijapata kituo cha afya chenye jina Iswago kilicho wilaya ya talafa la isangat. Je, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7,D4",,"Sijakuelewa vizuri mariam, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"ZAWADI, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,ONGEYA    ONGEYA    ONGEYA      NO  15070
+"A1,D4",,"Olipa, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,"Thanks, I Will Share With My Freinds How To Join In U-report"
+"A7,D4",,"Je, Zuhura watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Olipa, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mkola (Chunya) yalivyokuwa."
+D4,,"Je, Olipa ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni KAMBA? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako KAMBA? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"KAMBA, ujauzito wako una muda wa miezi 8? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana KAMBA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Nkung'ungu (Chunya) yalivyokuwa."
+"A7,D4",,"Je, KAMBA ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,"MAMA,3,1036243,0"
+"A1,A5,D4",,"ELINA, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"Tegemea, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Tegemea, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A1,A5,A7,D4,G4",,"Je, KAMBA ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, KAMBA chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Rehema, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kifumbe (Njombe) yalivyokuwa."
+"A7,D4",,"Je, KAMBA watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Zena, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Muungano (Njombe) yalivyokuwa."
+"A1,A3,A7",,"Asante sana KAMBA. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"MARIAM, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"Diana, ujauzito wako una muda wa miezi 8? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Diana, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Katumba II (Rungwe) yalivyokuwa."
+,,Twenty One Year Old
+"A1,A3,A7",,"Asante sana Asha, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Muungano (Njombe) yalivyokuwa."
+A7,,Habari yako Ela? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+D4,,"Ela, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni Nai? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Nai? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Nai, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,"I Understood My Region Is  ""Mbeya"""
+,,kilozangu 62 zamm 12
+"A1,D4",,"Luci, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,Muncipal Council
+"A1,A3,A7",,"Asante sana Nai, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Itensa (Mbeya) yalivyokuwa."
+"A1,A5,D4",,"Luci, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A7,D4",,"Je, Nai ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,Thank You So For Now Am A Member Of U-Report
+"A1,A7",,Tafadhali Luci niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+,,Kwenye Kadi Yangu Kuna Namba Sita
+D4,,"Je, ulienda kituo gani? Tafadhali Luci jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+,,"MADIBILA,.1038504."
+"A1,A3,A7",,"Asante sana MARIAM, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A3,A7",,"Asante sana Ela, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Makambako . (Njombe) yalivyokuwa."
+"A4,A5,D4",,"Je Ela kabla hujajifungua, uliwahi kuelezwa kuhusu dalili za hatari kwa mtoto mchanga na huduma za dharura? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,BORA / 4 / 1065929 KITUO CHA AFYA NTABA NATAKA KULIZIA KAMAUNAJISIKIA MAUMIVU KIUNO KABLA YA MDA WA KUJIFUNGUA
+"A1,A7,D4",,"Sijapata kituo cha afya chenye jina Ruanda Rch kilicho wilaya ya Mbeya Mjini. Je, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,"GETRIDA , DANKEN ,MWAMBENJA"
+D4,,Jina lako ni GETRIDA? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+,,Tafadhali Luci andika namba ya utambulisho wa kituo kwa ukamilifu wake (tarakimu saba).
+A7,,Habari yako GETRIDA? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"GETRIDA, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"GETRIDA, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+D4,,Jina lako ni Joice? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Joice? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"Joice, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"Joice, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+D4,,Jina lako ni Josofina? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+"A1,A3,A7",,"Asante sana Joice, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Muungano (Mbarali) yalivyokuwa."
+"A7,D4",,"Je, Joice ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+A7,,Habari yako Josofina? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Josofina, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"Leah, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana GRES, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Nkung'ungu (Chunya) yalivyokuwa."
+"A1,A3,A7",,"Asante sana Leah, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A1,A3,A7",,"Asante sana Josofina, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mfriga (Njombe) yalivyokuwa."
+"A7,D4",,"Je, Josofina ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, Joice ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Joice chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni Belitha? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Belitha? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Belitha, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"D1,G3",,vijana wa kitanzania
+,,Yuripoti tanzania
+"A1,A3,A7",,"Asante sana Belitha, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, Joice watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A5,A7,D4,G4",,"Je, Josofina ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Josofina chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"RIDIA, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Belitha ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Joice. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"RIDIA, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A5,D4",,Samahani RIDIA sijaelewa jibu lako. Kama ujauzito wako unaendelea vizuri jibu kwa kutumia herufi A. Kama tayari umeshajifungua jibu kwa kutumia herufi B. Kama ujauzito wako uliharibika jibu kwa kutumia herufi C.
+"A7,D4",,"Je, Josofina watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A7",,Tafadhali GETRIDA niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+"A1,A3,A7",,"Asante sana Josofina. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Josofina. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni Liana? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Liana? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Liana, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A4,A5,A7,D4",,"Samahani RIDIA, sijakuelewa vizuri, hudhurio lako la mwisho kwenye kituo cha afya ndipo ulijifungua? Kama ndiyo jibu kwa kutumia herufi A. Kama ulihudhuria na mtoto mchanga jibu kwa kutumia herufi B."
+"A1,A3,A7",,"Asante sana Liana, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mfriga (Njombe) yalivyokuwa."
+"A1,A5,A7,D4,G4",,"Je, Belitha ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5",,sijajifunguwa ujauzito ni mwezi 10
+D4,,"Je, Belitha chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana GETRIDA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ntaba (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, GETRIDA ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana RIDIA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+D4,,"Je, RIDIA ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni MILU? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako MILU? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"MILU, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Ela. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana MILU, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Nkung'ungu (Chunya) yalivyokuwa."
+"A7,D4",,"Je, Liana ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, MILU ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,Mbona ujumbe sipati tena
+"A1,A5,A7,D4,G4",,"Je, GETRIDA ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Belitha watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A5,A7,D4,G4",,"Je, Liana ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Liana chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, MILU ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, GETRIDA chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, MILU chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Liana watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Liana. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A7,D4",,"Je, MILU watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Liana. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A7,D4",,"Je, GETRIDA watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana MILU. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"Sofia, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Sofia, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mfriga (Njombe) yalivyokuwa."
+,,Mbn xpat ujumbe mwngne
+,,JNA LEHEMA WAZMA
+"A1,A3,A7",,"Asante sana Felida. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana GETRIDA. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,A7,D4,G4",,"Je, LOINE ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, LOINE chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,Mama  4  1047554
+"A1,A5,D4",,"Witnes, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+D4,,Jina lako ni MANFREDY? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+"A1,A3,A7",,"Asante sana Witnes, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mfriga (Njombe) yalivyokuwa."
+A7,,Habari yako MANFREDY? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"MANFREDY, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A7,D4",,"Je, LOINE watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana LOINE. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+,,Tar.11.11.sh.6000
+D4,,Jina lako ni Hongera? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Hongera? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Hongera, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Hongera, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Mfriga (Njombe) yalivyokuwa."
+"A1,A5,D4",,"SHIDA, ujauzito wako una muda wa miezi 2? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana SHIDA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ndobo (Kyela) yalivyokuwa."
+"A7,D4",,"Je, Hongera ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+A7,,Habari yako lilian? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"lilian, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,A7,D4,G4",,"Je, Hongera ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, ulienda kituo gani? Tafadhali FROLA jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+D4,,"Je, Hongera chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7",,"Kati ya vituo vifuatavyo, ulipata huduma za kliniki kwenye kituo gani? Jibu kwa kutuma namba za utambulisho wa kituo zilizo ndani ya mabano. Udekwa - Udekwa (1080076), Igurusi - Igurusi (1015957), Kigurusimba - Bushiri (1027309)"
+"A7,D4",,"Je, Hongera watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+,,"Mama,0, 1113000,0,"
+D4,,"Je, ulienda kituo gani? Tafadhali lilian jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+"A1,A3,A7",,"Asante sana Belitha. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A3,A7",,"Asante sana FROLA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+"A1,A3,A7",,"Asante sana Hongera. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+D4,,mkoa wa Njombe wilaya ya Ludewa
+G4,,Neema labison milambo
+D4,,Ulipata huduma hii kituo cha Madundasi (Mbarali)? Tafadhali jibu ndio au hapana kwa swali hili
+"A1,A7",,Sijapata kituo cha afya chenye namba . Tafadhali Sala niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+"A1,A7",,Tafadhali Sala niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+D4,,Jina lako ni regina? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako regina? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"regina, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+D4,,"jane, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"regina, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A5,D4",,"Anastazia, ujauzito wako una muda wa miezi 9? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,Matokeo na habari
+,,je kama umechelewa kwenda kufjtngua kad kuna fain inatolewa au?
+"A1,A3,A7",,"Asante sana Anastazia, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A1,A3,A7",,"Asante sana regina, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Isitu (Mbarali) yalivyokuwa."
+"A7,D4",,"Je, regina ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,vp kuhuxu kufungua kad
+"A1,A3,A7",,"Asante sana jane, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+D4,,"Je, jane ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,nilichelewa kufungua kad
+"A1,A5,A7,D4,G4",,"Je, regina ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"Twilumba, ujauzito wako una muda wa miezi 2? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+D4,,"Je, regina chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana Twilumba, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+"A1,A5,D4",,"BUPE, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana BUPE, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ndobo (Kyela) yalivyokuwa."
+"A7,D4",,"Je, regina watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+D4,,"Je, ulienda kituo gani? Tafadhali Sala jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+"A7,D4",,"Je, Twilumba ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, Twilumba ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Twilumba chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana regina. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A7,D4",,"Je, Twilumba watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A5,D4",,"Monica, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Anastazia. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni Naife? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+"A1,A3,A7",,"Asante sana Sala, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyela (Kyela) yalivyokuwa."
+A7,,Habari yako Naife? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Naife, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Monica, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+,,mmunity showcase what they do and provide a platform for possible employment for some selected youth
+"A1,A3,A7",,"Asante sana Naife, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, Naife ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,"Mama, 3, 1015957"
+"A1,A3,A7",,"Asante sana AGATHA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Chalangwa (Chunya) yalivyokuwa."
+,,Fathina makongwa
+D4,,Jina lako ni Fathina? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Fathina? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"Fathina, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,A7,D4,G4",,"Je, Naife ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,Samahani Fathina sijaelewa jibu lako. Kama ujauzito wako unaendelea vizuri jibu kwa kutumia herufi A. Kama tayari umeshajifungua jibu kwa kutumia herufi B. Kama ujauzito wako uliharibika jibu kwa kutumia herufi C.
+D4,,"Je, Naife chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"Fathina, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A3,A7",,"Asante sana Jesca, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Isongole (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, Naife watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Naife. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+,,Tafadhali BONITA andika namba ya utambulisho wa kituo kwa ukamilifu wake (tarakimu saba).
+"A1,A7",,Tafadhali Fathina niambie namba ya utambulisho ya kituo cha afya ulichokwenda (tarakimu saba).
+,,"Mama, 4, 1015957"
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Naife. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni ELINI? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako ELINI? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"ELINI, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"ELINI, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A3,A7",,"Asante sana ELINI, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igawa (Mbarali) yalivyokuwa."
+"A1,A5,D4",,"Dora, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Dora, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+,,Kwan nyi wat wa huduma
+"A1,A3,A7",,"Asante sana Farida, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Kyimo (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, ELINI ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, ulienda kituo gani? Tafadhali Fathina jibu swali hili kwa kuandika jina la kituo ulichokwenda."
+"A1,A5,A7,D4,G4",,"Je, ELINI ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, ELINI chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7,D4",,"Sijapata kituo cha afya chenye jina Mbez kilicho wilaya ya Kilolo. Je, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,Wilaya ya kilolo mkowa wa iringa
+"A1,A7,D4",,"Sijakuelewa vizuri Fathina, unafahamu namba ya utambulisho ya kituo cha afya ulichokwenda? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Mbona Maswali Hayap Siku Hiz
+,,Samahan mshaul mwanangu amefikisha miezi 6 lakin nikimpa chakula anakataa je nifanyaje
+"A7,D4",,"Je, ELINI watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+,,Miaka kumi nanane 18
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana ndimbumi. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"D1,G3",,Ujasiamali kwa vijana
+"A1,A5,D4",,"Hekima, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Hekima, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Igurusi (Mbarali) yalivyokuwa."
+,,Imekuja nusu sms.
+"A1,A3,A7",,"Asante sana ELINI. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+,,"HONGERA TAMISEMI MMEPIGA HATUA KUBWA MIJINI MIUNDOMBINU INARIDHISHA,LAKINI OMBI WAZIRI TEMBELEA BAADHI YA VIJIJI MIUNDOMBINU MUHIMU HAIJATEKELEZWA TEMBELEA IRINGA KIJIJI CHA IKUVILO TUNAPAKANA NA KATA YA LUHOTA MIUNDO MBINU NI NDOTO,WATENDAJI WAMELALA FOFOFO DIWANI ANAISHI MANISPAA  TUNA IMANI NA RAIS WETU PIA WAZIRI WA TAMISEMI NJOONI HUKU MJIONEE WENYEWE HAKUNA MADARAJA SHULE DISPENSARI WALA UMEME ULE WA REA! JAFO NJOO TUOKOE WAPIGA KURA WENU"
+A1,," mzazi,8,114042,0755682205"
+,,Samahani. Namba hii 114042 haijakamilika. Tafadhali hakikisha na tuma upya ujumbe wa usajili.
+,,"Mzazi,miezi 8,114042,0755682205"
+D4,,Jina lako ni MAGE? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako MAGE? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"MAGE, ujauzito wako una muda wa miezi 2? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana MAGE, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, MAGE ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, MAGE ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, MAGE chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Lakini tatizo maja tu mtu akiwauliza hamjibu
+,,Mbona hamtumi hiyo mjadala kwangu
+"A7,D4",,"Je, MAGE watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana MAGE. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana MAGE. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A5,D4",,"HEKIMA, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana HEKIMA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Kaila. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni Janis? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Janis? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Janis, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Janis, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Makongolosi (Chunya) yalivyokuwa."
+"A7,D4",,"Je, Janis ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,D4",,"ELINA, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,A7,D4,G4",,"Je, Janis ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Janis chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Janis watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Janis. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+D4,,Jina lako ni ANNE? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako ANNE? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"ANNE, ujauzito wako una muda wa miezi 8? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana ANNE, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, ANNE ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, ANNE ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, ANNE chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,Jina lako ni Zahar? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako Zahar? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"Zahar, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A7,D4",,"Je, ANNE watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Zahar, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Makongolosi (Chunya) yalivyokuwa."
+"A1,A3,A7",,"Asante sana ANNE. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A7,D4",,"Je, Zahar ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana ANNE. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A5,D4",,"AGINES, ujauzito wako una muda wa miezi 6? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana AGINES, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A5,A7,D4,G4",,"Je, Zahar ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, Zahar chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, Zahar watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Zahar. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A5,D4",,"IRENE, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana IRENE, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana IRENE. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni SEMEN? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+D4,,Jina lako ni SEMENI? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako SEMENI? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"SEMENI, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana SEMENI, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A7,D4",,"Je, SEMENI ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A5,A7,D4,G4",,"Je, SEMENI ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, SEMENI chumba/eneo la kungojea huduma lilikuwa na nafasi ya kutosha kupumzika? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,D4",,"Je, SEMENI watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana SEMENI. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana SEMENI. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A5,D4",,"MALIA, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana MALIA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana MALIA. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A5,D4",,"SARAH, ujauzito wako una muda wa miezi 3? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana SARAH, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana SARAH. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"A1,A5,D4",,"JUSTINA, ujauzito wako una muda wa miezi 8? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana JUSTINA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana JUSTINA. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,"NESI, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana NESI, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+D4,,"Je, NESI ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana BAHATI, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+D4,,Jina lako ni SIKUJUWA? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako SIKUJUWA? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+D4,,"SIKUJUWA, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana SIKUJUWA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+D4,,"Je, SIKUJUWA ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana SIKUJUWA. Nitaongea na wewe tena, kupata maoni yako kuhusu huduma za baadaye za kliniki utakazopata. Kumbuka kufuata ratiba uliyopewa ya kuhudhuria kliniki."
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana SIKUJUWA. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,"MAGRETH, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana MAGRETH, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+D4,,"Je, MAGRETH ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A4",,je mwanamke mjamzito anapokua namawazo mengi hali itakayo pelekea kua mdhaifu na myonge inaleta athar gan kwa mtoto
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana husna. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,Jina lako ni husna? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako husna? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,D4",,"husna, wewe ni mjamzito kwa sasa? Kama ndiyo, jibu kwa kutumia  herufi A. Kama hapana tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"husna, ujauzito wako una muda gani? Tafadhali jibu kwa kunitajia miezi ya ujauzito wako."
+"A1,A3,A7",,"Asante sana husna, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ubaruku (Mbarali) yalivyokuwa."
+"A7,D4",,"Je, husna ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A7,G4",,"Naomba kujua,Ni vyakula gani  vinavyoongeza damu mwilini.. na Ni matunda gani yanayoongeza kwa haraka damu mwilini"
+D4,,Jina lako ni Naomba? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+,,Jina langu Ni winifrida kessy.
+"A1,A5,D4",,"Jina, ujauzito wako una muda wa miezi 5? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana Jina, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Iyunga (Mbeya) yalivyokuwa."
+D4,,katika kijiji chetu cha masinono kimezidisha ndoa za utotoni twaombeni msahada wenu ili kpungza hli kero
+"A1,A5,A7,D4,G4",,"Je, husna ulipimwa presha (shinikizo la damu) na kipimo kuandikwa kwenye kadi yako ya kliniki? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,U-REPORT INAFANYA KAZI WAPI
+,,NATAKA KUJUA NINI HASA VVU
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana Lebia. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+"D1,G3",,serikali inapaswa kuandaa fursa mbal mbal kwaajil ya vijana
+"A1,A5,D4",,"Lebia, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A5,D4",,"ANA, ujauzito wako una muda wa miezi 4? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+,,Amos raphael magwangwa iringa
+"A1,A3,A7",,"Asante sana ANA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikukwa (Mbeya) yalivyokuwa."
+D4,,"debora, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana debora, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Busale (Kyela) yalivyokuwa."
+D4,,"Je, debora ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,MKOWA WA MJIN MANGARIB
+"A1,A5,D4",,"TUMAIN, ujauzito wako una muda wa miezi 7? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana TUMAIN, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+D4,,"oliva, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,"Mzazi,8,1036201,0755682205"
+A1,,Asante. Tumepokea usajili wa mama kwenye mfumo wa Mama na Mwana kutokea kituo cha Ludewa (Ludewa) - 1036201. Endelea kusajili kina mama wengi zaidi tufanikishe mpango huu.
+"A1,A3,A7",,"Asante sana oliva, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Busale (Kyela) yalivyokuwa."
+,,NAOMBA KUULZA U REPORT INAHUSIKA NANINI
+,,me nataka uje mwenyew
+,,Mbona hamtumi hiy sms?
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana oliva. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+D4,,"Tabu, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+,,TUBADIRISHE PROJEKTI
+"A7,D4",,"Je, MZAZI watoa huduma wa afya walikuwa wasikivu kwako wakati wa uchunguzi? Tafadhali jibu herufi A kama ndiyo, au herufi B kama hapana, au herufi C kama usingependa kujibu swali hili."
+"A1,A3,A7",,"Asante sana Tabu, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Busale (Kyela) yalivyokuwa."
+,,TUBADILISHE PROJECT
+"D1,D4",,Habari Atanas Mumba. Tafadhali jiandae kwa ajili ya kutuma taarifa ya utekelezaji wa shughuli za mradi kupitia shirika la CUAMM kwa mwezi huu kwa njia ya simu. Asante
+"A1,A7",,Karibu tena kwenye mpango wa Mama na Mwana NTUR. Nipo nasubiri kusikia jinsi matembezi yako kwenye kituo cha afya yalivyokuwa.
+A1,,"mama 10  
+1005826"
+"A4,D4",,"Samahani, jibu lako halieleweki kwa sababu ni zaidi ya 0. 
+Wangapi chini ya umri mitano waliopimwa walikutwa na utapiamlo mkali?"
+D4,,Jina lako ni LEYHILY? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+D4,,Jina lako ni DOSTA? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
+A7,,Habari yako LEYHILY? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+D4,,"LEYHILY, umeshajifungua? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+A7,,Habari yako DOSTA? Natumaini u mzima wa afya. Punde nitakuhoji kwa ufupi kusaidia uboreshwaji wa huduma za afya. Huduma hii ni bure.
+"A1,A5,D4",,"DOSTA, ujauzito wako una muda wa miezi 8? Kama uko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama hauko sahihi tafadhali jibu kwa kutumia herufi B. Kama tayari umeshajifungua jibu kwa kutumia herufi C."
+"A1,A3,A7",,"Asante sana DOSTA, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Ikuti (Rungwe) yalivyokuwa."
+"A4,D4",,"Samahani, jibu lako haieleweki kwasababu ni zaidi ya 0. 
+Wangapi chini ya umri mitano waliopimwa walikutwa na utapiamlo wa kadiri?"
+"A7,D4",,"Je, DOSTA ulipewa dawa yoyote? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+"A1,A3,A7",,"Asante sana LEYHILY, sasa nitakuhoji jinsi matembezi yako kwenye kituo cha afya cha Busale (Kyela) yalivyokuwa."
+D4,,"Je, LEYHILY ulijifungulia kitandani? Tafadhali jibu herufi A kama ndiyo au herufi B kama hapana."
+D4,,"Je, ulijifungulia Ihahi (Mbarali)? Tafadhali jibu ndio au hapana kwa swali hili"
+D4,,Jina lako ni Dada? Kama liko sahihi jibu ujumbe huu kwa kutumia herufi A. Kama haliko sahihi tafadhali nitumie jina lako sahihi.
